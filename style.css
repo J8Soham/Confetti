@@ -1,0 +1,17 @@
+.body {
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.button{
+    height: 44px;
+    border-radius: 4px;
+    outline: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+  
