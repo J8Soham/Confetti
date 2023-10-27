@@ -1,7 +1,5 @@
 # Confetti
 
-Orginally for Cisco Externship Hackathon
-
 Hopefully I can use it tomorrow at pi day or on April fools day. Or anytime ever. 
 
 First JS+CSS+HTML implementation ever.
